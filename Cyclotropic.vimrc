@@ -12,3 +12,4 @@ set showmatch     " set show matching parenthesis
 set smarttab      " insert tabs on the start of a line according to shiftwidth, not tabstop
 set hlsearch      " highlight search terms
 set incsearch     " show search matches as you type
+set wrap
